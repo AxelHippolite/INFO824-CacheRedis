@@ -1,4 +1,4 @@
-# INFO824-CacheRedis
+![](assets/banner.jpg)
 
 ## Introduction
 
